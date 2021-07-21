@@ -4,3 +4,4 @@
 ^Meta$
 ^README\.Rmd$
 ^\.travis\.yml$
+^\.github$
